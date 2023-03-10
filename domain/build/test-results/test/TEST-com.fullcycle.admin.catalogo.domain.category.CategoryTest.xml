@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.admin.catalogo.domain.category.CategoryTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-10T04:58:56" hostname="pedro-AB350M-DS3H-V2" time="0.019">
+  <properties/>
+  <testcase name="givenAValidParams_whenCallNewCategory_thenInstantiateACategory()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.015"/>
+  <testcase name="givenAnInvalidNullName_whenCallNewCategory_thenShouldReceivedError()" classname="com.fullcycle.admin.catalogo.domain.category.CategoryTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
